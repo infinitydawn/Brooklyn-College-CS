@@ -1,0 +1,48 @@
+Dataset #1
+| Temperature | Air Speed | Wind Chill Index 
+|     32.0 °F |    20 mph | 19.99 °F 
+
+Dataset #2
+| Temperature | Air Speed | Wind Chill Index 
+|     35.6 °F |    25 mph | 23.50 °F 
+
+Data set (75F 10mph) was rejected because the temperature is higher than 50F
+
+Dataset #3
+| Temperature | Air Speed | Wind Chill Index 
+|     41.0 °F |    35 mph | 29.04 °F 
+
+Dataset #4
+| Temperature | Air Speed | Wind Chill Index 
+|     15.0 °F |    35 mph | -6.75 °F 
+
+Data set (25F 150mph) was rejected because the air speed is higher than 120mph
+
+Dataset #5
+| Temperature | Air Speed | Wind Chill Index 
+|      0.0 °F |    25 mph | -24.09 °F 
+
+Dataset #6
+| Temperature | Air Speed | Wind Chill Index 
+|     32.0 °F |    35 mph | 16.65 °F 
+
+Dataset #7
+| Temperature | Air Speed | Wind Chill Index 
+|     -5.0 °F |    45 mph | -37.03 °F 
+
+Dataset #8
+| Temperature | Air Speed | Wind Chill Index 
+|     30.2 °F |    25 mph | 16.28 °F 
+
+Dataset #9
+| Temperature | Air Speed | Wind Chill Index 
+|     10.0 °F |    15 mph | -6.59 °F 
+
+Dataset #10
+| Temperature | Air Speed | Wind Chill Index 
+|     10.0 °F |    15 mph | -6.59 °F 
+
+There is no more data in the file.
+
+| Avg Temperature | Avg Air Speed | Avg Wind Chill Index 
+|        20.08 °F |      27.5 mph |           2.44 °F
