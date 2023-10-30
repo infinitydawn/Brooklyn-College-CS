@@ -1,0 +1,184 @@
+run:
+The value of your change will be computed.
+Enter -1 now to stop.
+
+How Many half dollars do you have? 
+0
+
+How Many quarters do you have? 
+3
+
+How Many dimes do you have? 
+2
+
+How Many nickels do you have? 
+17
+
+How many pennies do you have? 
+1
+The value of your change will be computed.
+Enter -1 now to stop.
+
+How Many half dollars do you have? 
+2
+
+How Many quarters do you have? 
+1
+
+How Many dimes do you have? 
+5
+
+How Many nickels do you have? 
+0
+
+How many pennies do you have? 
+0
+The value of your change will be computed.
+Enter -1 now to stop.
+
+How Many half dollars do you have? 
+0
+
+How Many quarters do you have? 
+0
+
+How Many dimes do you have? 
+0
+
+How Many nickels do you have? 
+5
+
+How many pennies do you have? 
+50
+The value of your change will be computed.
+Enter -1 now to stop.
+
+How Many half dollars do you have? 
+1
+
+How Many quarters do you have? 
+1
+
+How Many dimes do you have? 
+1
+
+How Many nickels do you have? 
+1
+
+How many pennies do you have? 
+1
+The value of your change will be computed.
+Enter -1 now to stop.
+
+How Many half dollars do you have? 
+9
+
+How Many quarters do you have? 
+9
+
+How Many dimes do you have? 
+9
+
+How Many nickels do you have? 
+9
+
+How many pennies do you have? 
+9
+The value of your change will be computed.
+Enter -1 now to stop.
+
+How Many half dollars do you have? 
+8
+
+How Many quarters do you have? 
+8
+
+How Many dimes do you have? 
+8
+
+How Many nickels do you have? 
+8
+
+How many pennies do you have? 
+8
+The value of your change will be computed.
+Enter -1 now to stop.
+
+How Many half dollars do you have? 
+7
+
+How Many quarters do you have? 
+7
+
+How Many dimes do you have? 
+7
+
+How Many nickels do you have? 
+7
+
+How many pennies do you have? 
+7
+The value of your change will be computed.
+Enter -1 now to stop.
+
+How Many half dollars do you have? 
+6
+
+How Many quarters do you have? 
+6
+
+How Many dimes do you have? 
+6
+
+How Many nickels do you have? 
+6
+
+How many pennies do you have? 
+6
+The value of your change will be computed.
+Enter -1 now to stop.
+
+How Many half dollars do you have? 
+5
+
+How Many quarters do you have? 
+5
+
+How Many dimes do you have? 
+5
+
+How Many nickels do you have? 
+5
+
+How many pennies do you have? 
+5
+The value of your change will be computed.
+Enter -1 now to stop.
+
+How Many half dollars do you have? 
+4
+
+How Many quarters do you have? 
+4
+
+How Many dimes do you have? 
+4
+
+How Many nickels do you have? 
+4
+
+How many pennies do you have? 
+4
+The value of your change will be computed.
+Enter -1 now to stop.
+
+How Many half dollars do you have? 
+-1
+You entered:    42 half dollars
+                44 quarters
+                47 dimes
+                62 nickels
+                4 pennies
+
+The value of your 199 coins is $39.84 which is equivalent to 3984 pennies.
+BUILD SUCCESSFUL (total time: 1 minute 17 seconds)

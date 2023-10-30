@@ -1,0 +1,7 @@
+You entered:    4 half dollars
+                2 quarters
+                4 dimes
+                1 nickels
+                2 pennies
+
+The value of your 13 coins is $2.97 which is equivalent to 297 pennies.
