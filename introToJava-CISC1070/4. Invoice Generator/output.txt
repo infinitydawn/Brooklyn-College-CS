@@ -1,0 +1,68 @@
+		THE BROOKLYN COLLEGE TILE STORE
+			Mikhail, Owner
+
+			 MEASUREMENT
+
+		   Length 	 15.0  feet
+		   Width 	 10.1  feet
+		   Tiles 	 165   tiles
+
+
+
+
+			    CHARGES
+
+	DESCRIPTION	   COST/TILE	CHARGE/ROOM
+	Tiles    	     1.25 	  $ 206.25
+	Labor    	     0.30 	     49.50
+					-----------
+	INSTALLED PRICE			  $ 255.75
+	Discount    	     5.0%	    -12.79
+					-----------
+	SUBTOTAL			  $ 242.96
+	Tax				     21.56
+	TOTAL				  $ 264.53
+
+
+
+
+
+	-------------------------------------------
+
+
+
+
+		THE BROOKLYN COLLEGE TILE STORE
+			Mikhail, Owner
+
+			 MEASUREMENT
+
+		   Length 	 45.0  feet
+		   Width 	 5.0   feet
+		   Tiles 	 225   tiles
+
+
+
+
+			    CHARGES
+
+	DESCRIPTION	   COST/TILE	CHARGE/ROOM
+	Tiles    	     2.28 	  $ 513.00
+	Labor    	     0.30 	     67.50
+					-----------
+	INSTALLED PRICE			  $ 580.50
+	Discount    	     7.0%	    -40.64
+					-----------
+	SUBTOTAL			  $ 539.87
+	Tax				     47.91
+	TOTAL				  $ 587.78
+
+
+
+
+
+	-------------------------------------------
+
+
+
+
