@@ -1,6 +1,4 @@
-description: this program can process a string, store it as an array and then
- * produce the following statistics: find frequency of each letter in the text.
- * Sort the data by the frequency of each letter, count the number of words that
- * have the same length (not longer than 10) and store them in array. The result
- * is finally printed to a text file with appropriate format. The input is 
- * also taken from a text file.
+description: this program is used to process the results of four tests taken
+ * by a class and produce sorted views and statistics reflecting averages of 
+ * each student, mean, mode, median, and standard deviation of test results per
+ * class. The output is then formatted to be sent to a text file.
