@@ -1,0 +1,10 @@
+BMI Calculator
+Enter the patient's height (in ft and inches - Enter 0 0 to stop): 5 9
+Enter the patient's weight (in pounds): 160
+
+Height: 5 feet, 9 inches
+Weight: 160 pounds
+Your BMI is 23.6, indicating your weight is in the normal category for adults of your height
+---------------------------------------------------
+
+Enter the patient's height (in ft and inches - Enter 0 0 to stop): 0 0
