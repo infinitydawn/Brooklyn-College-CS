@@ -1,0 +1,11 @@
+Albert Einstein    53 75 92 68
+Charles Babbage    96 72 85 92
+Claude Shannon     91 86 87 41
+John VonNeumann    40 93 92 78
+Niklaus Wirth      59 83 91 67
+Ada Lovelace       91 84 98 63
+Thomas Bayes       70 81 92 100
+Sofia Kovalevskaya 31 46 53 61
+Blaise Pascal      90 72 80 75
+Grace Hopper       81 92 73 80
+Isaac Newton       32 85 93 67
